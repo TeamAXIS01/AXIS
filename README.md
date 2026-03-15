@@ -33,7 +33,7 @@ Raspberry Pi 4B boots automatically
         ↓
 Boot animation — eyes opening
         ↓
-"Hello Anmol, AXIS is ready!"
+"Hello Sir, AXIS is ready!"
         ↓
 Idle state — eyes blinking
         ↓
